@@ -22,8 +22,7 @@
 
 ## 🎬 Demo
 
-![VPN Sales Bot Demo](demo.mp4)
-
+[▶️ مشاهده ویدیو](demo.mp4)
 ## 🛠 Tech Stack
 
 Python · aiogram · FastAPI · SQLAlchemy · SQLite
