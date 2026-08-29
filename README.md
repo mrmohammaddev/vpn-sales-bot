@@ -22,7 +22,7 @@
 
 ## 🎬 Demo
 
-![VPN Sales Bot Demo](demo.gif)
+![VPN Sales Bot Demo](demo.mp4)
 
 ## 🛠 Tech Stack
 
