@@ -22,11 +22,7 @@
 
 ## 🎬 Demo
 
-<div align="center">
-
-<img src="./demo.mp4" alt="China Yadak Saeid Website Preview" width="900">
-
-</div>
+[▶️ مشاهده ویدئوی Demo](./demo.mp4)
 
 ---
 
