@@ -24,9 +24,11 @@
 
 <div align="center">
 
-<img src="./screenshot.png" alt="China Yadak Saeid Website Preview" width="900">
+<img src="./demo.mp4" alt="China Yadak Saeid Website Preview" width="900">
 
 </div>
+
+---
 
 ## 🛠 Tech Stack
 
