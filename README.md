@@ -22,8 +22,11 @@
 
 ## 🎬 Demo
 
-[▶️ مشاهده ویدئوی Demo](./demo.mp4)
+<div align="center">
 
+<video src="./demo.mp4" controls width="900"></video>
+
+</div>
 ---
 
 ## 🛠 Tech Stack
