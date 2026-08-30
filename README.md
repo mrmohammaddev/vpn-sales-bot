@@ -27,6 +27,7 @@
 <video src="./demo.mp4" controls width="900"></video>
 
 </div>
+
 ---
 
 ## 🛠 Tech Stack
