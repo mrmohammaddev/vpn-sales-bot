@@ -22,7 +22,12 @@
 
 ## 🎬 Demo
 
-[▶️ مشاهده ویدیو](demo.mp4)
+<div align="center">
+
+<img src="./screenshot.png" alt="China Yadak Saeid Website Preview" width="900">
+
+</div>
+
 ## 🛠 Tech Stack
 
 Python · aiogram · FastAPI · SQLAlchemy · SQLite
