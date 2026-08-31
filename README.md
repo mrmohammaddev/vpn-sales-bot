@@ -1,12 +1,18 @@
 # 🤖 VPN Sales Bot
 
-ربات تلگرام حرفه‌ای برای فروش و مدیریت اشتراک‌های VPN با رابط کاربری کاملاً فارسی.
+ربات تلگرام حرفه‌ای برای فروش و مدیریت اشتراک‌های فیلترشکن با رابط کاربری کاملاً فارسی.
+
+## 🎬 Demo
+
+▶️ **مشاهده ویدئوی Demo در YouTube**
+
+https://youtu.be/2QVOy7PlHNM
 
 ## ✨ Features
 
 - 🛒 خرید و تمدید اشتراک
 - 💳 پرداخت و ارسال رسید
-- 📦 تحویل خودکار کانفیگ VPN
+- 📦 تحویل خودکار کانفیگ
 - ⏳ سیستم مدیریت اشتراک و تاریخ انقضا
 - 🎟 سیستم کد تخفیف
 - 🎁 سیستم دعوت دوستان
@@ -20,18 +26,63 @@
 - 🔒 سیستم کنترل دسترسی و امنیت
 - 🇮🇷 رابط کاربری کاملاً فارسی و تاریخ شمسی
 
-## 🎬 Demo
-
-[🎥 demo.mp4](https://github.com/mrmohammaddev/vpn-sales-bot/blob/main/demo.mp4)
-
 ---
 
 ## 🛠 Tech Stack
 
-Python · aiogram · FastAPI · SQLAlchemy · SQLite
+- Python
+- aiogram
+- FastAPI
+- SQLAlchemy
+- SQLite
+
+---
 
 ## 📌 About
 
-این پروژه یک نمونه‌کار واقعی برای مدیریت فروش و اشتراک VPN از طریق تلگرام است.
+این پروژه یک ربات تلگرام حرفه‌ای برای مدیریت فرآیند فروش و اشتراک‌های فیلترشکن است.
 
-> 🔒 سورس پروژه عمومی نیست.
+تمرکز اصلی پروژه روی اتوماسیون فرآیند فروش، مدیریت کاربران، مدیریت اشتراک‌ها و ارائه یک تجربه کاربری ساده و حرفه‌ای در محیط تلگرام بوده است.
+
+🔒 **سورس پروژه عمومی نیست.**
+
+---
+
+## 📺 Video Demo
+
+برای مشاهده عملکرد و رابط کاربری ربات:
+
+▶️ **YouTube:**  
+https://youtu.be/2QVOy7PlHNM
+
+---
+
+## 💰 قیمت و سفارش
+
+📩 برای اطلاع از قیمت و دریافت اطلاعات بیشتر، در تلگرام پیام دهید:
+
+**💬 @mrmohammad_dev**
+
+---
+
+## 👨‍💻 Developer
+
+### Mohammad
+
+**Web Development · Python · PHP · Backend · AI**
+
+🌐 Website:  
+https://mohammaddev.gt.tc
+
+💬 Telegram:  
+https://t.me/mrmohammad_dev
+
+---
+
+<div align="center">
+
+### 🤖 VPN Sales Bot
+
+**Professional Telegram Sales & Management System**
+
+</div>
