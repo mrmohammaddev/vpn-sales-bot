@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<video src="./demo.mp4" controls width="900"></video>
+[▶️ مشاهده Demo](https://github.com/mrmohammaddev/vpn-sales-bot/issues/1)
 
 </div>
 
