@@ -22,11 +22,7 @@
 
 ## 🎬 Demo
 
-<div align="center">
-
-[▶️ مشاهده Demo](https://github.com/mrmohammaddev/vpn-sales-bot/issues/1)
-
-</div>
+[🎥 demo.mp4](https://github.com/mrmohammaddev/vpn-sales-bot/blob/main/demo.mp4)
 
 ---
 
